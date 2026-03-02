@@ -1,0 +1,12 @@
+5,800,CityA
+CityB,200
+CityC,600
+CityD,200
+CityE,200
+CityA,CityB,5
+CityB,CityC,3.2
+CityC,CityD,6
+CityD,CityE,3
+CityA,CityE,20
+CityB,CityE,2
+CityE,CityD,5

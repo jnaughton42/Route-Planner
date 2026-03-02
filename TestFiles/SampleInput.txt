@@ -1,0 +1,12 @@
+5,800,Wilmore
+Lexington,405.08
+Wilmore,Lexington,0.45
+Nashville,Lexington,3.317
+Lexington,Nashville,3.383
+Nashville,99.31
+Wilmore,Nashville,3.47
+Wilmore,Raleigh,8.083
+Raleigh,Nashville,8.2
+Lexington,Raleigh,7.733
+Raleigh,201.58
+Nashville,Wilmore,3.383
